@@ -2,10 +2,10 @@
 
 👋 Hi, I'm @thh6282, a passionate Data Engineer with experience in building scalable data pipelines, optimizing databases, and working with cloud-based data solutions. I specialize in:  
 
-- **Data Engineering**: ETL/ELT, data warehousing, and real-time data streaming  
-- **Big Data Technologies**: Apache Spark, Apache Flink, Kafka, Trino  
-- **Database Systems**: Oracle, IBM Db2, PostgreSQL, Snowflake  
-- **Cloud & DevOps**: AWS, GCP, Kubernetes, Airflow  
+- **Data Engineering**: ETL/ELT, data warehouse, Data lakehouse and real-time data streaming.
+- **Big Data Technologies**: Apache Spark, Apache Flink, Kafka, Trino. 
+- **Database Systems**: Oracle, IBM Db2, PostgreSQL, MSSQL.  
+- **Cloud & DevOps**: Kubernetes, Airflow, AWS, AZure.
 - **Programming**: Python, SQL.
 
 🚀 Currently working on database migration and performance optimization projects.  
