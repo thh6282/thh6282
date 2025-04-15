@@ -5,7 +5,7 @@
 - **Data Engineering**: ETL/ELT, data warehouse, Data lakehouse and real-time data streaming.
 - **Big Data Technologies**: Apache Spark, Apache Flink, Kafka, Trino. 
 - **Database Systems**: Oracle, IBM Db2, PostgreSQL, MSSQL.  
-- **Cloud & DevOps**: Kubernetes, Airflow, AWS, AZure.
+- **Cloud & DevOps**: Kubernetes, Airflow, AWS, Azure.
 - **Programming**: Python, SQL.
 
 🚀 Currently working on database migration and performance optimization projects.  
